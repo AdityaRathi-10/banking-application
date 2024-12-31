@@ -32,7 +32,7 @@ npm start
 
 4. Set up client side
 ```bash
-cd backend
+cd frontend
 npm install
 npm run dev
 ```
