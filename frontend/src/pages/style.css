@@ -1,0 +1,14 @@
+table, thead, tbody, th, td{
+    border: 2px solid #494646;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+}
+
+th {
+    color: aqua;
+    font-size: 17px;
+    text-shadow: 1px 1px 10px gray;
+}
