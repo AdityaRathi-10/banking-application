@@ -27,6 +27,9 @@ cd banking-application
 ```bash
 cd backend
 npm install
+```
+Create a *.env* file in the root directory and set the variables as per the *.env.sample* file:
+```bash
 npm start
 ```
 
